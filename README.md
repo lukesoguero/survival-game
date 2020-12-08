@@ -12,3 +12,6 @@ Open Build folder and run "The Survival Game.exe"
 ## How to play
 - Use 'W', 'A', 'S', 'D' keys to move
 - Use left mouse click to shoot your weapon
+
+## Viewing code
+All class files (\*.cs) exist within the /Assets/Scripts folder
